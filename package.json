@@ -1,0 +1,12 @@
+{
+  "name": "upwell-by-elmehdi",
+  "private": true,
+  "description": "Upwell: creative and paid media agency website (static, ready for Netlify).",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs 5331 site"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
