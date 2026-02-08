@@ -1,2 +1,12 @@
 # keep every site file byte-for-byte (no line-ending conversion)
 * -text
+
+# language stats (repo-polish)
+*.html linguist-language=TypeScript
+*.htm linguist-language=TypeScript
+site/index.html linguist-language=HTML
+site/404.html linguist-language=HTML
+*.css linguist-generated=false linguist-vendored=false
+*.js linguist-generated=false linguist-vendored=false
+*.mjs linguist-generated=false linguist-vendored=false
+# end language stats
